@@ -77,26 +77,18 @@ nav{
         margin-top: 0%;
     }
     .col-md-4 img{
-        position: relative;
-        margin-left: 75px;
-        margin-right: 85px;
+        width: 60%;
         padding-top: 5%;
         padding-bottom: 5%;
-}
-    
+    }    
 }
 
-@media (max-width: 768px) {
+@media (max-width: 767px) {
     nav{
         background-color:#3D9970;
     }
     .row.justify-content-around{
         margin-top: 0%;
-    }
-    .col-md-4 img{
-        position: relative;
-        padding: 0;
-        width: 70%;
     }
 }
 
