@@ -41,6 +41,9 @@ nav{
     font-size: medium;
     text-align: left;
 }
+.col-md-10 table{
+    font-size: x-small;
+}
 h6{
     text-align: center;
     color: #3D9970;
