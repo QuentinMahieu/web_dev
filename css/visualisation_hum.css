@@ -88,6 +88,9 @@ nav{
     nav{
         background-color:#3D9970;
     }
+    .collapse.navbar-collapse ul{
+        background-color: #FFFFFF;
+    }
     .row.justify-content-around{
         margin-top: 0%;
     }
